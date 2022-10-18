@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
+.home-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding-left: 10px;
+}
+
+.away-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding-left: 10px;
+}
+
+button {
+    background: none;
+    margin-left: 10px;
+    padding: 2px;
+    background-color: black;
+    color: white;
+    
+}
